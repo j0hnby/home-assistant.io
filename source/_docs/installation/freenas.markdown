@@ -321,7 +321,7 @@ Then, enter the `venv`:
 ```bash
 su homeassistant
 cd /usr/local/share/homeassistant
-source ./bin/activate
+source ./bin/activate.csh
 ```
 
 Upgrade Home Assistant:
